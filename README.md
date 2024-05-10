@@ -19,6 +19,10 @@ Os dados utilizados foram extraídos no site do INEP:
 - Plotly
 - Seaborn
 
+# Referências
+
+A minha inspiração e referência para construção deste projeto foi a playlist de Análise de Dados do canal Programação Dinâmica (https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR). Utilizo este espaço inclusive para agradecer a Kizzy pela contribuição no meu aprendizado.
+
 # Autora
 
 Beatriz da Silva Oliveira
